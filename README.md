@@ -1,3 +1,4 @@
+知乎：https://zhuanlan.zhihu.com/p/49271699
 # BERT
 
 **\*\*\*\*\* New November 5th, 2018: Third-party PyTorch and Chainer versions of
